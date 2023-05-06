@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there I am Vivek! Great to see you here! 👋
 
+
+I'm a self-taught ###Front-end developer and a ###Computer_Application_Graduate
 <!--
 **VivekShrirame/VivekShrirame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
