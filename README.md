@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on AI Prompter using NEXT.js and MONGODB [PromptCoreAI](https://github.com/VivekShrirame/promptcoreai)
 
-- 🌱 I’m currently learning **TypeScript and Android Development**
+- 🌱 I’m currently learning **TypeScript and Angular**
 
 - 💬 Ask me about **React.js & Javascript**
 
